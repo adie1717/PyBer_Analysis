@@ -6,5 +6,6 @@ Throughout the analysis we have gathered the following data points that will be 
 * Rural: $4327.93
 * Suburban: $19,356.33
 * Urban:$39,854.38
+* ![Pyber Fare Summary](Pyber_fare_summary.png)
 ## Conclusions and Recommendations
 Based on the analysis and data points we can gather that urban cities by far have the highest number of total drivers yet the average fare per ride seems to be the lowest of all cities at $24.53 compared to rural cities at $34.62 per ride. Based on this evidence it would be prudent for PyBer to consider increasing the number of drivers in rural cities. Increasing the number of drivers at a minimum on the two months with the highest fare totals of March and April would be a great start to increase total fares in rural cities. 
